@@ -1,0 +1,15 @@
+C:\Users\VLAD\Desktop\Rabotaembratya\final-test-work\final-test-work\bin\Debug\net7.0\final-test-work.exe
+C:\Users\VLAD\Desktop\Rabotaembratya\final-test-work\final-test-work\bin\Debug\net7.0\final-test-work.deps.json
+C:\Users\VLAD\Desktop\Rabotaembratya\final-test-work\final-test-work\bin\Debug\net7.0\final-test-work.runtimeconfig.json
+C:\Users\VLAD\Desktop\Rabotaembratya\final-test-work\final-test-work\bin\Debug\net7.0\final-test-work.dll
+C:\Users\VLAD\Desktop\Rabotaembratya\final-test-work\final-test-work\bin\Debug\net7.0\final-test-work.pdb
+C:\Users\VLAD\Desktop\Rabotaembratya\final-test-work\final-test-work\obj\Debug\net7.0\final-test-work.csproj.AssemblyReference.cache
+C:\Users\VLAD\Desktop\Rabotaembratya\final-test-work\final-test-work\obj\Debug\net7.0\final-test-work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VLAD\Desktop\Rabotaembratya\final-test-work\final-test-work\obj\Debug\net7.0\final-test-work.AssemblyInfoInputs.cache
+C:\Users\VLAD\Desktop\Rabotaembratya\final-test-work\final-test-work\obj\Debug\net7.0\final-test-work.AssemblyInfo.cs
+C:\Users\VLAD\Desktop\Rabotaembratya\final-test-work\final-test-work\obj\Debug\net7.0\final-test-work.csproj.CoreCompileInputs.cache
+C:\Users\VLAD\Desktop\Rabotaembratya\final-test-work\final-test-work\obj\Debug\net7.0\final-test-work.dll
+C:\Users\VLAD\Desktop\Rabotaembratya\final-test-work\final-test-work\obj\Debug\net7.0\refint\final-test-work.dll
+C:\Users\VLAD\Desktop\Rabotaembratya\final-test-work\final-test-work\obj\Debug\net7.0\final-test-work.pdb
+C:\Users\VLAD\Desktop\Rabotaembratya\final-test-work\final-test-work\obj\Debug\net7.0\final-test-work.genruntimeconfig.cache
+C:\Users\VLAD\Desktop\Rabotaembratya\final-test-work\final-test-work\obj\Debug\net7.0\ref\final-test-work.dll
